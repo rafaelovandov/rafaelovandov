@@ -1,5 +1,5 @@
 # 💫 About Me
-🌱 Currently learning **React Native, PHP, Laravel**  
+🌱 Currently learning **React, React Native, PHP Blade**  
 💬 Ask me about **Flutter, Dart, Home Assistant**  
 
 ## 🌐 Socials:
